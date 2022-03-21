@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "todolist",
+    "slug": "snack-fbe96923-620c-4acd-b7a2-1fd573c90431",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.hiranya123456.snackfbe96923620c4acdb7a21fd573c90431"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
